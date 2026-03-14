@@ -1,0 +1,9 @@
+path: .
+
+train: train/images
+val: val/images
+
+names:
+  - 0:dinnerfork
+  - 1:dinnerknife
+  - 2:knife
